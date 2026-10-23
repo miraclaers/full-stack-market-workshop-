@@ -21,7 +21,7 @@ To get started, head over to [https://remix.ethereum.org/](https://remix.ethereu
 Here, we can get started by importing the contracts that we'll be needing to get started from Open Zeppelin:
 
 ```solidity
-// SPDX-License-Identifier: MIT OR Apache-2.0
+
 pragma solidity ^0.8.3;
 
 import "@openzeppelin/contracts/utils/Counters.sol";
